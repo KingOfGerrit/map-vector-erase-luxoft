@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
     cout << "Hello world!" << endl;
     
-    cout << "Jenkins work!" << endl;
+    cout << "Jenkins work, please" << endl;
     
     return 0;
 }
